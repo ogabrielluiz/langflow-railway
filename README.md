@@ -1,20 +1,20 @@
 ---
-title: LangFlow
-description: A LangFlow instance.
+title: Langflow
+description: A Langflow instance.
 tags:
   - langflow
   - python
 ---
 
-# LangFlow Example
+# Langflow Example
 
-This example starts up a [LangFlow](https://github.com/logspace-ai/langflow.git) instance.
+This example starts up a [Langflow](https://github.com/logspace-ai/langflow.git) instance.
 
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Emy2sU?referralCode=MnPSdg)
 ## ✨ Features
 
-- LangFlow
+- Langflow
 - Python 3
 
 ## 💁‍♀️ How to use
