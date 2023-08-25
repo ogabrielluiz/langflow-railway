@@ -1,2 +1,2 @@
 
-langflow>==0.0.73
+langflow>==0.4.0
