@@ -11,7 +11,7 @@ tags:
 This example starts up a [LangFlow](https://github.com/logspace-ai/langflow.git) instance.
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Emy2sU?referralCode=MnPSdg)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/JMXEWp?referralCode=MnPSdg)
 ## ✨ Features
 
 - LangFlow
