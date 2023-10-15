@@ -6,8 +6,8 @@ authors = ["Gabriel Almeida <gabriel@logspace.ai>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.10"
-langflow = "~0.0.74"
+python = ">=3.10,<3.11"
+langflow = "~0.5.0"
 
 [tool.poetry.dev-dependencies]
 
