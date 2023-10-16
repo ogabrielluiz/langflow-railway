@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+# Compiled Python files
+*.pyc
+
+# langflow
+*.log
