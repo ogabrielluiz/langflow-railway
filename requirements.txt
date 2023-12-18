@@ -244,5 +244,4 @@ wrapt==1.14.0 ; python_version >= "3.10" and python_version < "3.11"
 yarl==1.9.4 ; python_version >= "3.10" and python_version < "3.11"
 zep-python==1.5.0 ; python_version >= "3.10" and python_version < "3.11"
 zipp==3.17.0 ; python_version >= "3.10" and python_version < "3.11"
-
 langflow ; python_version >= "3.10" and python_version < "3.11"
