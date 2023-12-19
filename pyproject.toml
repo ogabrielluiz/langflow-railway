@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "railway-langflow-template"
 version = "0.1.0"
-description = "This example starts up LangFlow"
+description = "This example starts up Langflow"
 authors = ["Gabriel Almeida <gabriel@logspace.ai>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
-langflow = "~0.5.0"
+langflow = "*"
 
 [tool.poetry.dev-dependencies]
 
